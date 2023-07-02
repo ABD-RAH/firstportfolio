@@ -41,11 +41,11 @@ body{
     font-size: 35px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
-
-    .lol:link{
+.lol{
+    a:link{
         color: aliceblue;
     }
-    .lol:visited{
+    a:visited{
         color: pink;
     }
-
+}
