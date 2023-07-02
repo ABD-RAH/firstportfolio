@@ -42,10 +42,10 @@ body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
-    .lol :link{
-        color: red;
-    }
-    .lol :visited{
-        color: pink;
-    }
+.lol :link{
+    color: red;
+}
+.lol :visited{
+    color: pink;
+}
 
