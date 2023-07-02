@@ -1,0 +1,43 @@
+body{
+    background-image: url(pics/bg2.jpeg);
+}
+    
+.fh{
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-around;
+}
+.me{
+    width: 300px;
+    border-radius: 10%;
+}
+.words{
+    color: #ffe5ec;
+    width: 500px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para{
+    font-size: large;
+}
+.greet{
+    text-align: center;
+}
+.contact{
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 35px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.sh{
+    margin-top: 15px;
+    
+}
+.ex{
+    text-align: center;
+    color: #ffe5ec;
+    font-size: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
